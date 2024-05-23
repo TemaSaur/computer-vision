@@ -1,0 +1,10 @@
+id: 1: [car], plate: unknown plate
+id: 2: [car], plate: unknown plate
+id: 3: [car], plate: unknown plate
+id: 4: [car], plate: unknown plate
+id: 5: [car], plate: unknown plate
+id: 10: [car], plate: ('E70TTT75', 1)
+id: 12: [car], plate: unknown plate
+id: 13: [car], plate: unknown plate
+id: 14: [car], plate: unknown plate
+id: 16: [car], plate: unknown plate
